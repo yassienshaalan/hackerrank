@@ -1,6 +1,6 @@
 ## Hackerrank Problem Solutions
 
-### This repo contains solutions to some of hackerrank coding problems under the following categories:
+##### This repo contains solutions to some of hackerrank coding problems under the following categories:
 #### 1. Dictionaries and Hashmaps
 #### 2. Sorting
 #### 3. String Manipulation
