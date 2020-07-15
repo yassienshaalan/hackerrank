@@ -15,16 +15,11 @@ def maxSubsetSum(arr):
     incl = 0
     excl = 0
     for i in range(len(arr)): 
-        # Current max excluding i (No ternary in  
-        # Python) 
-        print("before","inc",incl,"exc",excl)
+        # Current max excluding i (No ternary) 
         new_excl = max(excl,incl)
-         
         # Current max including i 
         incl = excl + arr[i] 
         excl = new_excl 
-        print("after","inc",incl,"exc",excl)
-      
     # return max of incl and excl 
     return max(excl,incl) 
 
