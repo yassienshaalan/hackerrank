@@ -1,4 +1,5 @@
 ## Hackerrank Problem Solutions
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##### This repo contains solutions to some of hackerrank coding problems under the following categories:
 #### 1. Dictionaries and Hashmaps
