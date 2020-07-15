@@ -10,7 +10,6 @@ import sys
 ####   Problem description link #
 #https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 #######################################
-# Complete the checkMagazine function below.
 def checkMagazine(magazine, note):
 
     mag_dict = dict()
