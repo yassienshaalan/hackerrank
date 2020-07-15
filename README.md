@@ -2,12 +2,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##### This repo contains solutions to some of hackerrank coding problems under the following categories:
-#### 1. [Dictionaries and Hashmaps](Dictionaries%and%Hashmaps/README.md)
+#### 1. [Dictionaries and Hashmaps](./Dictionaries%20and%20Hashmaps)
 #### 2. Sorting
 #### 3. String Manipulation
 #### 4. Greedy Algorithms
 #### 5. Search
-#### 6. [Dynamic Programming](Dynamic%Programming/README.md) 
+#### 6. [Dynamic Programming](./Dynamic%20Programming) 
 #### 7. Stacks and Queues
 #### 8. Graphs
 #### 9. Trees
