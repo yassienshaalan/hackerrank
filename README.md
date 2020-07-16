@@ -5,7 +5,7 @@
 #### 1. [Dictionaries and Hashmaps](./Dictionaries%20and%20Hashmaps)
 #### 2. Sorting
 #### 3. String Manipulation
-#### 4. Greedy Algorithms
+#### 4. [Greedy Algorithms](./Greedy%Algorithms)
 #### 5. Search
 #### 6. [Dynamic Programming](./Dynamic%20Programming) 
 #### 7. Stacks and Queues
